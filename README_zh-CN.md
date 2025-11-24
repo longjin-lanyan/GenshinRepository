@@ -1,30 +1,26 @@
-# GenshinRepository
+# 原神国际服所有版本合集库
 
 [EN](README_EN.md)
 
-This repository includes direct links to Genshin Impact updates. With this, it allows you to download Genshin Impact updates without a launcher, but using a download manager (like IDM, FDM, XDM, uGet, etc.).
+本仓库包含1.0.0-5.5.0所有版本的直链下载方式（不包含测试版）
+感谢您从本仓库下载原神。必须因为mihoyo的更新方式停止更新。但别担心;我会将后续版本以云盘的方式更新。再次感谢你进入这个仓库。
+## 继续维护仓库
 
-Thank you for entrusting this repository to download Genshin Impact data directly. With a heavy heart, I have to stop this for personal reasons. But don't worry; I'm sure you can do it yourself. Once again, thank you for trusting this repository.
-
-## Continue Maintaining For GenshinRepository
-
-Because the previous repository has been archived by the owner and unmaintained, I will continue to maintain and provide updates on Genshin Impact data. Thanks so much to @RapDodge for providing this repository.
-
+由于之前的仓库已被所有者归档且未维护，我将继续维护并更新原神数据。非常感谢@RapDodge提供这个仓库。（人机翻译）
 Original Repository - [GenshinRepository By RapDodge](https://github.com/rapdodge/GenshinRepository)
 
-## Genshin Daily Fetch Automation (Genshin-Repository-List)
+## 原神每日取物自动化（原神仓库列表）
 
-I've created a new repository to automate fetching data and saving files daily. The repository retrieves data from the same API URL as this repository. You can visit my repository at the following link. Thanks for visiting my repository.
+我创建了一个新的仓库，每天自动获取数据和保存文件。该存储库从与该存储库相同的 API URL 获取数据。您可以通过以下链接访问我的仓库。感谢你访问我的仓库。（人机翻译）
 
-Genshin Daily Fetch Automation Repository - [Genshin-Repository-List](https://github.com/JRSKelvin/Genshin-Repository-List)
+ 原神每日取物自动化仓库 - [Genshin-Repository-List](https://github.com/JRSKelvin/Genshin-Repository-List)
 
-## Other Game Repository
+## 其他游戏仓库
+我也创建了几个来自同一个或不同开发者的仓库。您可以通过以下链接访问我的仓库。（人机翻译）
 
-I've also created several repositories from the same or different developers. You can visit my repository at the following link.
+崩坏：星穹铁道 国际版合集 - [Honkai-Star-Rail-Repository](https://github.com/JRSKelvin/Honkai-Star-Rail-Repository)
 
-Honkai: Star Rail Repository - [Honkai-Star-Rail-Repository](https://github.com/JRSKelvin/Honkai-Star-Rail-Repository)
-
-API response
+API响应
 ````markdown
 {
   "data": {
@@ -89,8 +85,8 @@ API response
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+本作品采用
+[知识共享署名-非商业性-相同方式共享4.0国际许可协议授权][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
