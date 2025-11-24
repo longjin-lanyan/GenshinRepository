@@ -36,6 +36,9 @@
 [Audio KO from 4.1.0 to 4.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_4.1.0_4.2.0_hdiff_PoiVS3Y0REXAgfeJ.zip)
 
 ###### Full Install Section
+
+[测试](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip.006)
+
 [Game Data 4.2.0 Part1]([https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.001)
 
 [Game Data 4.2.0 Part2]([https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.002)
@@ -55,4 +58,5 @@
 [Audio JP 4.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/Audio_Japanese_4.2.0.zip)
 
 [Audio KO 4.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/Audio_Korean_4.2.0.zip)
+
 
