@@ -1,7 +1,7 @@
 # GenshinRepository
 [简体中文](README_zh-CN.md)
 
-(This repository is a branch repository. I have fixed the issue where connections for versions 4.0.0-4.2.0 could not be accessed, replaced them with package download links, and added a Chinese translation for use by Chinese users, so there's no need to rely on Bing Translator.)
+(This repository is a branch repository. I have fixed the issue where connections for versions 4.0.0-4.2.0 could not be accessed, replaced them with package download links, and added a Chinese translation for use by Chinese users, so there's no need to rely on Bing Translator。Stupid Bing🙄)
 
 This repository includes direct links to Genshin Impact updates. With this, it allows you to download Genshin Impact updates without a launcher, but using a download manager (like IDM, FDM, XDM, uGet, etc.).
 
