@@ -24,7 +24,17 @@
 [Audio KO from 3.8.0 to 4.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.8.0_4.0.0_hdiff_GR7WVCPuATEyjxK2.zip)
 
 ###### Full Install Section
-[Game Data 4.0.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip)
+[Game Data 4.0.0 Part 1](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip.001)
+
+[Game Data 4.0.0 Part 2](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip.002)
+
+[Game Data 4.0.0 Part 3](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip.003)
+
+[Game Data 4.0.0 Part 4](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip.004)
+
+[Game Data 4.0.0 Part 5](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip.005)
+
+[Game Data 4.0.0 Part 6](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip.006)
 
 [Audio CN 4.0.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/Audio_Chinese_4.0.0.zip)
 
@@ -33,3 +43,4 @@
 [Audio JP 4.0.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/Audio_Japanese_4.0.0.zip)
 
 [Audio KO 4.0.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/Audio_Korean_4.0.0.zip)
+
