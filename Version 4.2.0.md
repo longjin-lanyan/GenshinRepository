@@ -48,6 +48,9 @@
 
 [Game Data 4.2.0 Part6](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.006)
 
+[Game Data 4.2.0 Part7](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/GenshinImpact_4.2.0.zip.007)
+
+
 
 [Audio CN 4.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/Audio_Chinese_4.2.0.zip)
 
@@ -56,4 +59,5 @@
 [Audio JP 4.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/Audio_Japanese_4.2.0.zip)
 
 [Audio KO 4.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20231030132335_iOEfPMcbrXpiA8Ca/Audio_Korean_4.2.0.zip)
+
 
