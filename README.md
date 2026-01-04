@@ -3,7 +3,7 @@
 
 (This repository is a branch repository. I have fixed the issue where connections for versions 4.0.0-4.2.0 could not be accessed, replaced them with package download links, and added a Chinese translation for use by Chinese users)
 
-This repository includes direct links to Genshin Impact updates. With this, it allows you to download Genshin Impact updates without a launcher, but using a download manager (like IDM, FDM, XDM, uGet, etc.).
+This repository contains direct download links for all versions of OSREL 1.0.0-5.5.0 (including beta versions, but not completely, some versions are missing). Thank you for downloading Genshin Impact from this repository. Updates have been stopped due to Mihoyo's update method. Future versions can be downloaded through the Mihoyo Downloader [米哈游下载器(hoyoverse_Download)](https://github.com/Escartem/MeiBrowser?tab=readme-ov-file). Thank you again for visiting this repository.
 
 Thank you for entrusting this repository to download Genshin Impact data directly. With a heavy heart, I have to stop this for personal reasons. But don't worry; I'm sure you can do it yourself. Once again, thank you for trusting this repository.
 
