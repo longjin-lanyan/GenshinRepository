@@ -3,12 +3,12 @@
 [EN](README.md)
 
 本仓库包含OSREL1.0.0-5.5.0所有版本的直链下载方式（包含测试版但不完全，有些版本缺失）
-感谢您从本仓库下载原神。必须因为mihoyo的更新方式停止更新。再次感谢你进入这个仓库。
+感谢您从本仓库下载原神。必须因为mihoyo的更新方式停止更新，后续版本可以[米哈游下载器（hoyoverse_Download）](https://github.com/Escartem/MeiBrowser?tab=readme-ov-file))
+前往。再次感谢你进入这个仓库。
 ## 继续维护仓库
 
 由于之前的仓库已被所有者归档且未维护，我将继续维护并更新原神数据。非常感谢@RapDodge提供这个仓库。（人机翻译）
-Original Repository - [GenshinRepository By RapDodge](https://github.com/rapdodge/GenshinRepository)
-
+Original Repository - 
 ## 原神每日取物自动化（原神仓库列表）
 
 我创建了一个新的仓库，每天自动获取数据和保存文件。该存储库从与该存储库相同的 API URL 获取数据。您可以通过以下链接访问我的仓库。感谢你访问我的仓库。（人机翻译）
