@@ -24,7 +24,19 @@
 [Audio KO from 3.3.0 to 3.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.3.0_3.4.0_hdiff_j3fribpBSCJaMUnE.zip)
 
 ###### Full Install Section
-[Game Data 3.4.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip)
+[Game Data 3.4.0 无法使用(Unable to use)](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip)
+
+[Game Data 3.4.0 Part 1](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip.001)
+
+[Game Data 3.4.0 Part 2](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip.002)
+
+[Game Data 3.4.0 Part 3](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip.003)
+
+[Game Data 3.4.0 Part 4](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip.004)
+
+[Game Data 3.4.0 Part 5](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/GenshinImpact_3.4.0.zip.005)
+
+
 
 [Audio CN 3.4.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230109135018_10QhExKHwAoa4ecr/Audio_Chinese_3.4.0.zip)
 
