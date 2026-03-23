@@ -8,4 +8,4 @@
 [1.2.0至1.3.0的升级包](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/1.2.0_1.3.0_diff_sBM8DJZc.zip)
 
 ###### 完整包（含语音包）
-[Version 1.3](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210203_f97a39582b45649f/GenshinImpact_1.3.0.zip)
+[完整包（1.3.0）](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210203_f97a39582b45649f/GenshinImpact_1.3.0.zip)
