@@ -3,9 +3,10 @@
 [该版本启动器](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/update_20210413104427.zip)
 
 ###### 升级包
-[1.4.0至1.5.0的语音升级包（汉语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.4.0_1.5.0_diff_hvg2F3QM.zip)
 
 [1.4.0至1.5.0的升级包](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_1.4.0_1.5.0_diff_H8LGSgKU.zip)
+
+[1.4.0至1.5.0的语音升级包（汉语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.4.0_1.5.0_diff_hvg2F3QM.zip)
 
 [1.4.0至1.5.0的语音升级包（韩语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_1.4.0_1.5.0_diff_NcX8UP1L.zip)
 
