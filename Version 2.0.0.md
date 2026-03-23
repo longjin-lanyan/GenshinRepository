@@ -13,6 +13,8 @@
 
 [1.6.0至2.0.0的语音升级包（韩语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_1.6.0_2.0.0_diff_VoMeKwuyAZ1jRItk.zip)
 
+
+
 [1.6.1至2.0.0的游戏本体升级包](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_1.6.1_2.0.0_diff_GLrkVi02eEIJHmoZ.zip)
 
 [1.6.1至2.0.0的语音升级包（汉语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.6.1_2.0.0_diff_kxn7JGptOMsUWeXf.zip)
