@@ -3,8 +3,7 @@
 [EN](README_EN.md)
 
 本仓库包含OSREL1.0.0-5.5.0所有版本的直链下载方式（包含测试版但不完全，有些版本缺失）
-感谢您从本仓库下载原神。必须因为mihoyo的更新方式停止更新，后续版本可以[米哈游下载器（hoyoverse_Download）](https://github.com/longjin-lanyan/GenshinRepository/blob/main/%E5%90%8E%E7%BB%AD%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95.md)
-前往。再次感谢你进入这个仓库。
+感谢您从本仓库下载原神。必须因为mihoyo的更新方式停止更新，后续版本可以前往[米哈游下载器（hoyoverse_Download）](https://github.com/longjin-lanyan/GenshinRepository/blob/main/%E5%90%8E%E7%BB%AD%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95.md)。再次感谢你进入这个仓库。
 ## 继续维护仓库
 
 由于之前的仓库已被所有者归档且未维护，我将继续维护并更新原神数据。非常感谢@RapDodge提供这个仓库。（人机翻译）
