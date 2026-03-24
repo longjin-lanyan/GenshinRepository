@@ -1,5 +1,5 @@
 # GenshinRepository
-[简体中文](README_zh-CN.md)
+[简体中文](README.md)
 
 (This repository is a branch repository. I have fixed the issue where connections for versions 4.0.0-4.2.0 could not be accessed, replaced them with package download links, and added a Chinese translation for use by Chinese users)
 
