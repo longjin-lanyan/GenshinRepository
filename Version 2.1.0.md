@@ -5,11 +5,11 @@
 
 [2.0.0至2.1.0的语音升级包（汉语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.0.0_2.1.0_diff_UCr51Zxdu9aAjGYg.zip)
 
-[2.0.0至2.1.0的语音升级包（汉语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_2.0.0_2.1.0_diff_n8EeG923ZU1BPcgq.zip)
+[2.0.0至2.1.0的语音升级包（英语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_2.0.0_2.1.0_diff_n8EeG923ZU1BPcgq.zip)
 
-[2.0.0至2.1.0的语音升级包（汉语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_2.0.0_2.1.0_diff_Ub6DpehQk19xKEVa.zip)
+[2.0.0至2.1.0的语音升级包（日语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_2.0.0_2.1.0_diff_Ub6DpehQk19xKEVa.zip)
 
-[2.0.0至2.1.0的语音升级包（汉语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.0.0_2.1.0_diff_SYrI5qspl1z4tBRn.zip)
+[2.0.0至2.1.0的语音升级包（韩语）](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.0.0_2.1.0_diff_SYrI5qspl1z4tBRn.zip)
 
 ###### 升级包（1.6.1-2.0.0）
 
